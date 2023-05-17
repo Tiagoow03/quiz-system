@@ -1,0 +1,3 @@
+enum StatusQuestionario{
+  aberto, fechado;
+}
